@@ -1,0 +1,30 @@
+#center{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+       
+    background-color: rgb(9, 150, 35);
+}
+#wrap{
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:rgb(212, 244, 243);
+    
+}
+#text{
+flex:1;
+padding: 20px;
+}
+#image{
+flex:0 0 auto;
+padding: 20px;
+width: 50%;
+}
+.image img {
+    border-radius: 5px;
+    max-width: 100%;
+    /* Ensure image does not exceed container width */
+    height: auto;
+    /* Maintain aspect ratio */
+}

@@ -1,0 +1,47 @@
+img{
+    border-radius: 0px;
+    height: auto; /* Maintain aspect ratio */
+    max-height: 80vh; /* Set a maximum height */
+    width: auto; /* Adjust width accordingly */
+    max-width: 100%; /* Ensure it doesn't overflow */
+} 
+.front{
+    position:relative;
+    top: 8px;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #df0f39;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    
+  
+    
+    
+}  
+
+#hello{
+  border: 2px;
+}
+active{
+    border-radius: 100%;
+}
+.container{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.btn{
+  border: none;
+}
+#text{
+  color: black;
+}
+#textend{
+  color: aquamarine;
+}
+#textend1{
+  color: aquamarine;
+}
+#textend2{
+  color: aquamarine;
+}

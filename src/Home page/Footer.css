@@ -1,0 +1,17 @@
+#footer{
+    background-color: #050819;
+    color: white;
+    
+}
+#details{
+    justify-content: center;
+}
+#links{
+    justify-content: center;
+}
+#copyright{
+    text-align: center;
+}
+.back1{
+    color: rgb(76, 222, 63);
+}

@@ -1,0 +1,6 @@
+#app{
+    scroll-behavior: smooth !important;
+    overflow-x: hidden;
+        /* background-color: #050819; */
+        display: block;
+}
